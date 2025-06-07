@@ -1,0 +1,12 @@
+{
+  "name": "analizador-emiliano",
+  "version": "1.0.0",
+  "description": "Analizador sintáctico con ANTLR4 y JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.0"
+  }
+}

@@ -1,0 +1,3 @@
+repetir {
+  salir
+} hasta verdadero;

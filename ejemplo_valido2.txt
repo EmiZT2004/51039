@@ -1,0 +1,4 @@
+repetir {
+  imprimir("Este es otro ejemplo.");
+  salir;
+} hasta falso;
